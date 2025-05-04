@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7wuB+4+Gu4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LeviJ\\OneDrive\\CCU Semester 6\\CIS-230\\CIS_230_SP25_Week16\\Console\\Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LeviJ\\.nuget\\packages\\spectre.console\\0.50.0\\spectre.console.0.50.0.nupkg.sha512",
+    "C:\\Users\\LeviJ\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
